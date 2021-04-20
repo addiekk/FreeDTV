@@ -1,5 +1,13 @@
 {
   "data": [
+  {
+      "name": "百度",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "",
+      "webUrl": "https://www.baidu.com/",
+      "webOpen": true,
+      "click": true
+    },
     {
       "name": "Gimy",
       "pic": "https://gimy.tv/images/indexlogo2.png",
