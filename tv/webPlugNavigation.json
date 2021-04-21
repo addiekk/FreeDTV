@@ -2,7 +2,7 @@
    "data":[
       {
          "name":"Gimy",
-         "pic":"",
+         "pic":"https://github.com/FongMi/FreeDTV/raw/main/image/gimy.png",
          "ads":"",
          "webUrl":"https://gimy.app/",
          "webOpen":true,
@@ -10,7 +10,7 @@
       },
       {
          "name":"MoMoVod",
-         "pic":"",
+         "pic":"https://github.com/FongMi/FreeDTV/raw/main/image/momovod.png",
          "ads":"",
          "webUrl":"https://momovod.tv/",
          "webOpen":true,
