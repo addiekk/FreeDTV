@@ -11,7 +11,7 @@
       {
          "id":2,
          "name":"快播雲",
-         "url":"http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
+         "url":"http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml",
          "cate":"動漫,4&&陸劇,13&&韓劇,15&&台劇,14&&美劇,16&&動作片,6&&喜劇片,7&&愛情片,8&&科幻片,9&&恐怖片,10&&綜藝,3",
          "click":true,
          "wePlus":{}
