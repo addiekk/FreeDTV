@@ -8,7 +8,7 @@
          "click":true,
          "wePlus":{}
       },
-	  {
+      {
          "id":1,
          "name":"天空雲",
          "url":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
@@ -20,11 +20,11 @@
          "id":1,
          "name":"八戒雲",
          "url":"http://cj.bajiecaiji.com/inc/bjm3u8.php",
-         "cate":"大陸動漫,91&&日本動漫,92&&歐美動漫,93&&陸劇,12&&韓劇,14&&美劇,15&&日劇,17&&動作片,5&&喜劇片,6&&愛情片,7&&科幻片,8&&恐怖片,9&&陸綜,96&&韓綜,97&&福利,46",
+         "cate":"大陸動漫,91&&日本動漫,92&&歐美動漫,93&&陸劇,12&&韓劇,14&&美劇,15&&日劇,17&&動作片,5&&喜劇片,6&&愛情片,7&&科幻片,8&&恐怖片,9&&陸綜,96&&韓綜,97&&福利,47",
          "click":true,
          "wePlus":{}
       },
-	  {
+      {
          "id":1,
          "name":"88雲",
          "url":"http://www.88zyw.net/inc/m3u8.php",
@@ -32,7 +32,7 @@
          "click":true,
          "wePlus":{}
       },
-	  {
+      {
          "id":1,
          "name":"1886",
          "url":"http://cj.1886zy.co/inc/api.php",
@@ -40,7 +40,7 @@
          "click":true,
          "wePlus":{}
       },
-	  {
+      {
          "id":2,
          "name":"快播雲",
          "url":"http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml",
