@@ -1,2 +1,2 @@
 # FreeDTV
-https://github.com/FongMi/FreeDTV/raw/main/tv/
+https://github.com/addiekk/FreeDTV/raw/main/tv/
