@@ -23,6 +23,14 @@
          "webUrl":"https://dramasq.cc/",
          "webOpen":true,
          "click":true
+      },
+      {
+         "name":"JAV線上",
+         "pic":"https://github.com/FongMi/FreeDTV/raw/main/image/777tv.png",
+         "ads":"",
+         "webUrl":"https://macjav.com/",
+         "webOpen":true,
+         "click":true
       },      
       {
          "name":"小鴨影音",
