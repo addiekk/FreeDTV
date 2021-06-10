@@ -17,6 +17,14 @@
          "click":true
       },
       {
+         "name":"DramasQ",
+         "pic":"https://github.com/FongMi/FreeDTV/raw/main/image/momovod.png",
+         "ads":"",
+         "webUrl":"https://dramasq.cc/",
+         "webOpen":true,
+         "click":true
+      },
+      {
          "name":"小鴨影音",
          "pic":"https://github.com/FongMi/FreeDTV/raw/main/image/777tv.png",
          "ads":"",
