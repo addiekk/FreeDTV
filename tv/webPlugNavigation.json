@@ -17,6 +17,14 @@
          "click":true
       },
       {
+         "name":"楓林網TV",
+         "pic":"https://github.com/FongMi/FreeDTV/raw/main/image/logo.png",
+         "ads":"",
+         "webUrl":"https://imaple.tv/",
+         "webOpen":true,
+         "click":true
+      },
+      {
          "name":"DramasQ",
          "pic":"https://github.com/FongMi/FreeDTV/raw/main/image/logo.png",
          "ads":"",
