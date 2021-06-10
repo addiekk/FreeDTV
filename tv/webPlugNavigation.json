@@ -33,6 +33,14 @@
          "click":true
       },
       {
+         "name":"555電影網",
+         "pic":"https://github.com/FongMi/FreeDTV/raw/main/image/logo.png",
+         "ads":"",
+         "webUrl":"https://www.o8tv.com/",
+         "webOpen":true,
+         "click":true
+      },
+      {
          "name":"小鴨影音",
          "pic":"https://github.com/FongMi/FreeDTV/raw/main/image/777tv.png",
          "ads":"",
