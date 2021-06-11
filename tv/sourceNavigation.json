@@ -2,12 +2,12 @@
    "data":[
       {
       "name": "TVBS新聞",
-      "pic": "https://zh.wikipedia.org/wiki/TVBS%E6%96%B0%E8%81%9E%E5%8F%B0#/media/File:Tvbsnews.png",
+      "pic": "https://cc.tvbs.com.tw/img/upload/2018/11/16/20181116193759-1d62bfc4.jpg",
       "url": "https://www.youtube.com/watch?v=A4FbB8UhNRs",
       "type": "web",
       "subTitle": "经典动画电影整理中",
       "click": true,
-      "autoNext": false,
+      "autoNext": true,
       "webOpen": true,
       "ads": "",
       "decoder": 0,
