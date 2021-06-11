@@ -2,7 +2,7 @@
    "data":[
       {
          "name":"Gimy",
-         "pic":"https://github.com/FongMi/FreeDTV/raw/main/image/gimy.png",
+         "pic":"https://github.com/addiekk/FreeDTV/raw/main/image/gimy.png",
          "ads":"",
          "webUrl":"https://gimy.app/",
          "webOpen":true,
@@ -10,7 +10,7 @@
       },
       {
          "name":"MoMoVod",
-         "pic":"https://github.com/FongMi/FreeDTV/raw/main/image/momovod.png",
+         "pic":"https://github.com/addiekk/FreeDTV/raw/main/image/momovod.png",
          "ads":"",
          "webUrl":"https://momovod.tv/",
          "webOpen":true,
@@ -18,7 +18,7 @@
       },
       {
          "name":"DramasQ",
-         "pic":"https://github.com/FongMi/FreeDTV/raw/main/image/DramasQ.png",
+         "pic":"https://github.com/addiekk/FreeDTV/raw/main/image/DramasQ.png",
          "ads":"",
          "webUrl":"https://dramasq.cc/",
          "webOpen":true,
@@ -26,7 +26,7 @@
       },
       {
          "name":"線上看電視",
-         "pic":"https://github.com/FongMi/FreeDTV/raw/main/image/see.png",
+         "pic":"https://github.com/addiekk/FreeDTV/raw/main/image/see.png",
          "ads":"",
          "webUrl":"https://tv.wfuapp.com/",
          "webOpen":true,
@@ -34,7 +34,7 @@
       },      
       {
          "name":"小鴨影音",
-         "pic":"https://github.com/FongMi/FreeDTV/raw/main/image/777tv.png",
+         "pic":"https://github.com/addiekk/FreeDTV/raw/main/image/777tv.png",
          "ads":"",
          "webUrl":"https://777tv.app/",
          "webOpen":true,
