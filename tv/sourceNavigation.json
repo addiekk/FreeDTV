@@ -8,6 +8,7 @@
          "subTitle":"",
          "click":true,
          "autoNext":true,
+         "webOpen": true,
          "decoder":0,
          "webPlus":{}
       }
