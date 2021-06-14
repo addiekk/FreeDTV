@@ -31,7 +31,15 @@
          "webUrl":"https://tv.wfuapp.com/",
          "webOpen":true,
          "click":true
-      },      
+      },  
+      {
+         "name":"閃電影視",
+         "pic":"https://github.com/addiekk/FreeDTV/raw/main/image/momovod.png",
+         "ads":"",
+         "webUrl":"https://www.ak1080.com/",
+         "webOpen":true,
+         "click":true
+      },
       {
          "name":"小鴨影音",
          "pic":"https://github.com/addiekk/FreeDTV/raw/main/image/777tv.png",
