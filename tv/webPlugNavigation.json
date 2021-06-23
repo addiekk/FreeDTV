@@ -57,6 +57,14 @@
          "click":true
       },
       {
+         "name":"伊利影音",
+         "pic":"https://github.com/addiekk/FreeDTV/raw/main/image/NEW.png",
+         "ads":"",
+         "webUrl":"https://eynytv.com/",
+         "webOpen":true,
+         "click":true
+      },
+      {
          "name":"小鴨影音",
          "pic":"https://github.com/addiekk/FreeDTV/raw/main/image/777tv.png",
          "ads":"",
