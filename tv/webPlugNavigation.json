@@ -65,6 +65,14 @@
          "click":true
       },
       {
+         "name":"嗶滴影視",
+         "pic":"https://github.com/addiekk/FreeDTV/raw/main/image/NEW.png",
+         "ads":"",
+         "webUrl":"https://www.mp4er.com/",
+         "webOpen":true,
+         "click":true
+      },
+      {
          "name":"小鴨影音",
          "pic":"https://github.com/addiekk/FreeDTV/raw/main/image/777tv.png",
          "ads":"",
